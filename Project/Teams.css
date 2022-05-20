@@ -1,0 +1,60 @@
+h1
+{
+    color: rgb(40, 40, 128);
+    text-align:center;
+    background-color: rgb(170, 98, 67);
+   
+}
+h2{
+   color:rgb(40, 40, 128);
+}
+body
+{
+background-color: rgb(143, 143, 211);
+
+}
+#menu ul
+{
+    margin-top:  42px;
+}
+  
+#menu ul li
+{
+list-style-type: none;
+display: inline;
+margin-left: 50px;
+}
+#menu ul li a:link 
+{
+   color: #FFF;
+   text-decoration: none;
+   text-transform: uppercase;
+   padding-top: 40px;
+   padding-bottom: 40px;
+   padding-left: 20px;
+   padding-right: 20px;
+}
+              
+#menu ul li a:visited
+{
+   color: #FFF;
+   text-decoration: none;
+   text-transform: uppercase;
+}
+              
+#menu ul li a:hover
+{
+   color: #FFF;
+   background-color:rgb(40, 40, 128) ;
+   -webkit-box-shadow: 0px 4px 5px rgba(50, 50, 50, 0.93);
+   -moz-box-shadow:    0px 4px 5px rgba(50, 50, 50, 0.93);
+   box-shadow:         0px 4px 5px rgba(50, 50, 50, 0.93);
+}
+/* Dropdown Button */
+.dropbtn {
+   background-color: #04AA6D;
+   color: white;
+   padding: 16px;
+   font-size: 16px;
+   border: none;
+ }

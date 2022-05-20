@@ -1,0 +1,15 @@
+<div id="menu">
+        <img src="https://images.moneycontrol.com/mcnews/images/ipl-2022/ipl_banner_plyr_img.png"/><hr/>
+   
+          
+        <ul >
+        <li ><a href="home.html">Home</a></li>
+       
+        <li ><a href="Teams.html">Teams players</a></li>
+        
+        <li ><a href="matches.html">Matches</a></li>
+        <li ><a href="videos.html">Videos</a></li>
+             
+        </ul><hr/>
+      
+    </div>
